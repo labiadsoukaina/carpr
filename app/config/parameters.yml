@@ -1,0 +1,13 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: vps558206.ovh.net
+    database_port: 3080
+    database_name: carprice
+    database_user: root
+    database_password: mysql
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: soukayna@goandev.fr
+    mailer_password: soukayna
+    car_image_dir: upload/images
+    secret: carprice
